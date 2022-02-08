@@ -10,6 +10,8 @@ A cool scripts will appear one day here. Be ready for them. They could confuse y
 </p>
 </details>
 
+P. S. Icon has been stolen from <a target="_blank" href="https://icons8.com/icon/52250/trash-dove">Trash Dove</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
 <!--
 
 **Here are some ideas to get you started:**
